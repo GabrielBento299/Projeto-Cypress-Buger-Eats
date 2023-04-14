@@ -1,0 +1,16 @@
+{
+    "nome": "Gabriel",
+    "cpf": "00034534534",
+    "email": "gabriel@teste.com",
+    "whatsapp": "1199999999",
+    "endereco": {
+        "cep": "58010010",
+        "rua": "Rua Manoel Soares Londres",
+        "numero": "185",
+        "complemento": "casa",
+        "bairro": "Centro",
+        "cidade_uf": "João Pessoa/PB"
+      },
+      "metodo_entrega": "Moto",
+      "cnh": "img/cnh-digital.jpg"
+}
